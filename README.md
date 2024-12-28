@@ -22,11 +22,19 @@ O **Void Clear - V1** é uma ferramenta poderosa desenvolvida para automatizar a
 
 3. **Permissões Adequadas**  
    Não precisa de quaisquer permissões.
+---
+
+### 👾 **Download do Painel**
+Painel **Void Clear - V1**
+
+[📁 • DOWNLOAD](https://www.mediafire.com/file/n6dv3bf08e0vpfs/VOID_CLEAR_-_V1.rar/file)
+
+[🌐 • VIRUSTOTAL](https://www.virustotal.com/gui/home/upload)
 
 ---
 
-### 👾 **Demonstração do Painel**
-Painel **Void Clear - V1**
+### 📷 **Demonstração do Painel**
+Interface do painel **Void**
 
 ![Painel Void Clear](https://i.imgur.com/rVxDxLb.png)
 

